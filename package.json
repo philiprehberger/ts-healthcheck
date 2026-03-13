@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/healthcheck",
+  "name": "@philiprehberger/ts-healthcheck",
   "version": "0.1.0",
   "description": "Production readiness health check builder with typed check results",
   "type": "module",
@@ -12,8 +12,8 @@
   "devDependencies": { "tsup": "^8.0.0", "typescript": "^5.0.0" },
   "keywords": ["health", "healthcheck", "monitoring", "kubernetes", "readiness"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/healthcheck.git" },
-  "homepage": "https://github.com/philiprehberger/healthcheck#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/healthcheck/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/ts-healthcheck.git" },
+  "homepage": "https://github.com/philiprehberger/ts-healthcheck#readme",
+  "bugs": { "url": "https://github.com/philiprehberger/ts-healthcheck/issues" },
   "author": "Philip Rehberger", "engines": { "node": ">=18.0.0" }, "sideEffects": false
 }
