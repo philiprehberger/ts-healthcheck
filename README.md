@@ -1,21 +1,21 @@
-# @philiprehberger/healthcheck
+# @philiprehberger/ts-healthcheck
 
-[![CI](https://github.com/philiprehberger/healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/healthcheck/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/healthcheck)
-[![License](https://img.shields.io/github/license/philiprehberger/healthcheck)](LICENSE)
+[![CI](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/ts-healthcheck)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-healthcheck)](LICENSE)
 
 Production readiness health check builder with typed check results.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/healthcheck
+npm install @philiprehberger/ts-healthcheck
 ```
 
 ## Usage
 
 ```ts
-import { createHealthcheck, check } from '@philiprehberger/healthcheck';
+import { createHealthcheck, check } from '@philiprehberger/ts-healthcheck';
 
 const health = createHealthcheck([
   check('database', async () => { await db.ping(); }),
