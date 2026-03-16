@@ -1,6 +1,6 @@
 # @philiprehberger/ts-healthcheck
 
-[![CI](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/ts-healthcheck)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-healthcheck)](LICENSE)
 
@@ -61,6 +61,15 @@ app.get('/health', async (req, res) => {
 | `status` | `'healthy' \| 'degraded' \| 'unhealthy'` | Overall status |
 | `checks` | `Record<string, CheckResult>` | Per-check results |
 | `timestamp` | `string` | ISO timestamp |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 

@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/ts-healthcheck",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Production readiness health check builder with typed check results",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -25,7 +25,8 @@
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "node --test"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
