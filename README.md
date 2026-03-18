@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/ts-healthcheck)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-healthcheck)](LICENSE)
 
-Production readiness health check builder with typed check results.
+Production readiness health check builder with typed check results
 
 ## Installation
 
