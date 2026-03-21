@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/ts-healthcheck",
+  "name": "@philiprehberger/healthcheck",
   "version": "0.1.4",
   "description": "Production readiness health check builder with typed check results",
   "type": "module",
