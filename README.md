@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/healthcheck)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-healthcheck)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Production readiness health check builder with typed check results
 
