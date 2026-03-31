@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/healthcheck",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Production readiness health check builder with typed check results",
   "type": "module",
   "main": "./dist/index.cjs",
