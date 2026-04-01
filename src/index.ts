@@ -1,2 +1,10 @@
-export { createHealthcheck, check } from './healthcheck.js';
-export type { HealthCheck, HealthResult, CheckResult, HealthStatus } from './types.js';
+export { createHealthcheck, check, group } from './healthcheck.js';
+export type {
+  HealthCheck,
+  HealthResult,
+  CheckResult,
+  HealthStatus,
+  CheckOptions,
+  GroupResult,
+  HealthcheckConfig,
+} from './types.js';

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0
+
+- Add check dependencies with dependsOn option
+- Add degraded status with configurable health threshold
+- Add check grouping for organized health reports
+- Add per-check timeout support
+
 ## 0.1.6
 
 - Standardize README to 3-badge format with emoji Support section
