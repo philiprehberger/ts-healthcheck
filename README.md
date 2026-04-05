@@ -1,8 +1,8 @@
 # @philiprehberger/healthcheck
 
-[![CI](https://github.com/philiprehberger/healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/healthcheck/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-healthcheck/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/healthcheck.svg)](https://www.npmjs.com/package/@philiprehberger/healthcheck)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/healthcheck)](https://github.com/philiprehberger/healthcheck/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-healthcheck)](https://github.com/philiprehberger/ts-healthcheck/commits/main)
 
 Production readiness health check builder with typed check results
 
@@ -189,11 +189,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/healthcheck)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-healthcheck)
 
-🐛 [Report issues](https://github.com/philiprehberger/healthcheck/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-healthcheck/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/healthcheck/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-healthcheck/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
